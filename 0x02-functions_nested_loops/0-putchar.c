@@ -1,19 +1,16 @@
 #include "main.h"
 
-/** 
- * main - check code
- *
- * Return: Always 0.
+/**
+ * main - prints _putchar, flowd by a new linees
+ * Return: Alwys 0 (Success)
  */
-int main(void)
 {
 	char beki[] = "_putchar";
 
-	int i;
-
-	for (i = 0; i < 8; i++)
+	int c;
+	for (c = 0; c < 8; c++)
 	{
-		_putchar(beki[i]);
+		_putchar(abe[c]);
 	}
 	_putchar('\n');
 	return (0);
