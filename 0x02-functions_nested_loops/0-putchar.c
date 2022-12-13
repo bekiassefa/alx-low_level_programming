@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /** 
  * main - check code
@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char beki[10] = "_putchar";
+	char beki[] = "_putchar";
 
 	int i;
 
@@ -15,6 +15,6 @@ int main(void)
 	{
 		_putchar(beki[i]);
 	}
-	_putchar(10);
+	_putchar('\n');
 	return (0);
 }
