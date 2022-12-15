@@ -19,4 +19,5 @@ int i, j;
 		}
 		        _putchar('\n');
 		}
+	return (0);
 }
