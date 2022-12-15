@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  *  more_numbers - prints 10 times the numbers, from 0 to 14
- *
+ * hjhjhjhjhghggfdstrdfgkgkgtfugkhkggfgkhkhkghjgghfgfhghghhgggg
+ * fgfgfjhghggkgkghgjfgfgfgfgfhff ggfg
  * Return: Always 0.
  */
 
@@ -19,5 +20,5 @@ int i, j;
 		}
 		        _putchar('\n');
 		}
-	return (0);
+
 }
