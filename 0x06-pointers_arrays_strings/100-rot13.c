@@ -11,6 +11,7 @@ char *rot13(char *s)
 	int i = 0, j = 0;
 	char string_rot13[] = 
 		"NnOoPpQqRrSsTtUuVvWwXxYyZzAaBbCcDdEeFfGgHhIiJjKkLlMm";
+	
 	char string_alpha[] = 
 		"AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz";
 
