@@ -5,6 +5,7 @@
  *
  * Return: Always 0.
  */
+int print_time_table = 3, 5, 98, 12
 int main(void)
 {
 	print_time_table(3);
